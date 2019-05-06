@@ -1,0 +1,44 @@
+{
+  "list": [
+    {
+      "Id1": 0,
+      "Id2": 0,
+      "Title1": "てすてす",
+      "Title2": "わんわん",
+      "Rank": "A",
+      "Outline": "わんわんお\nby いぬ",
+      "Writer": "いぬ",
+      "Illust": "テスト"
+    },
+    {
+      "Id1": 0,
+      "Id2": 1,
+      "Title1": "てすてす",
+      "Title2": "にゃんにゃん",
+      "Rank": "B",
+      "Outline": "にゃんにゃん\nby ねこ",
+      "Writer": "ねこ",
+      "Illust": "テスト"
+    },
+    {
+      "Id1": 1,
+      "Id2": 0,
+      "Title1": "ほげほげ",
+      "Title2": "コケコッコー ",
+      "Rank": "C",
+      "Outline": "コケッコー\nby ニワトリ",
+      "Writer": "にわとり",
+      "Illust": "テスト"
+    },
+    {
+      "Id1": 1,
+      "Id2": 1,
+      "Title1": "ほげほげ",
+      "Title2": "モーモー",
+      "Rank": "D",
+      "Outline": "モー",
+      "Writer": "",
+      "Illust": ""
+    }
+  ]
+}
